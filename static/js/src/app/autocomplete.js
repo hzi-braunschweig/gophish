@@ -45,6 +45,7 @@ var TEMPLATE_TAGS = [{
     }
 ];
 
+
 var textTestCallback = function (range) {
     if (!range.collapsed) {
         return null;
