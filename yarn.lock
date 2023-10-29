@@ -2203,7 +2203,7 @@ datamaps@^0.5.9:
     d3 "^3.5.6"
     topojson "^1.6.19"
 
-datatables.net@^1.13.4:
+datatables.net@^1.13.6:
   version "1.13.6"
   resolved "https://registry.yarnpkg.com/datatables.net/-/datatables.net-1.13.6.tgz#6e282adbbb2732e8df495611b8bb54e19f7a943e"
   integrity sha512-rHNcnW+yEP9me82/KmRcid5eKrqPqW3+I/p1TwqCW3c/7GRYYkDyF6aJQOQ9DNS/pw+nyr4BVpjyJ3yoZXiFPg==
