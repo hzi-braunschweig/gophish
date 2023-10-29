@@ -939,7 +939,7 @@
   resolved "https://registry.yarnpkg.com/@discoveryjs/json-ext/-/json-ext-0.5.7.tgz#1d572bfbbe14b7704e0ba0f39b74815b84870d70"
   integrity sha512-dBVuXR082gk3jsFp7Rd/JI4kytwGHecnCoTtXFb7DB6CNHp4rg5k1bhg0nWdLGLnOV71lmDzGQaLMy8iPLY0pw==
 
-"@eonasdan/tempus-dominus@^6.4.3":
+"@eonasdan/tempus-dominus@^6.7.16":
   version "6.7.16"
   resolved "https://registry.yarnpkg.com/@eonasdan/tempus-dominus/-/tempus-dominus-6.7.16.tgz#251577e8a9605ac8874feafc69bdc49b1e7542d0"
   integrity sha512-9pVr34fpul5mHCMhljuBN+vlp8Djlor6RocdNp4IgVGDkhyv1hUewkY2/+K1b2gYzfAMVB57cohZUqgtpELGhw==
