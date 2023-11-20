@@ -48,7 +48,7 @@
     "moment": "^2.29.4",
     "papaparse": "^5.4.0",
     "select2": "^4.1.0-rc.0",
-    "sweetalert2": "^11.7.3",
+    "sweetalert2": "^11.10.1",
     "topojson": "^3.0.2",
     "useragent": "^2.3.0",
     "zxcvbn": "^4.4.2"
