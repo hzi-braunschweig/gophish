@@ -12,11 +12,11 @@ require (
 	github.com/emersion/go-message v0.17.0
 	github.com/go-sql-driver/mysql v1.7.1
 	github.com/gophish/gomail v0.0.0-20200818021916-1f6d0dfd512e
+	github.com/gorilla/context v1.1.2
 	github.com/gorilla/csrf v1.7.2
 	github.com/gorilla/handlers v1.5.1
-	github.com/gorilla/context v1.1.2
-	github.com/gorilla/securecookie v1.1.2
 	github.com/gorilla/mux v1.8.1
+	github.com/gorilla/securecookie v1.1.2
 	github.com/gorilla/sessions v1.2.1
 	github.com/jinzhu/gorm v1.9.16
 	github.com/jordan-wright/email v4.0.1-0.20200824153738-3f5bafa1cd84+incompatible
@@ -26,7 +26,7 @@ require (
 	github.com/oschwald/maxminddb-golang v1.12.0
 	github.com/sirupsen/logrus v1.9.3
 	github.com/ziutek/mymysql v1.5.4 // indirect
-	golang.org/x/crypto v0.14.0
+	golang.org/x/crypto v0.24.0
 	golang.org/x/time v0.5.0
 	gopkg.in/alecthomas/kingpin.v2 v2.2.6
 	gopkg.in/check.v1 v0.0.0-20161208181325-20d25e280405
