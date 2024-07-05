@@ -979,10 +979,10 @@
   resolved "https://registry.npmjs.org/@discoveryjs/json-ext/-/json-ext-0.5.7.tgz"
   integrity sha512-dBVuXR082gk3jsFp7Rd/JI4kytwGHecnCoTtXFb7DB6CNHp4rg5k1bhg0nWdLGLnOV71lmDzGQaLMy8iPLY0pw==
 
-"@eonasdan/tempus-dominus@^6.4.3":
-  version "6.7.16"
-  resolved "https://registry.npmjs.org/@eonasdan/tempus-dominus/-/tempus-dominus-6.7.16.tgz"
-  integrity sha512-9pVr34fpul5mHCMhljuBN+vlp8Djlor6RocdNp4IgVGDkhyv1hUewkY2/+K1b2gYzfAMVB57cohZUqgtpELGhw==
+"@eonasdan/tempus-dominus@^6.9.9":
+  version "6.9.9"
+  resolved "https://registry.yarnpkg.com/@eonasdan/tempus-dominus/-/tempus-dominus-6.9.9.tgz#83de1f7d995ae1557a62d01720894498c74bd8e6"
+  integrity sha512-l7fcg5IfudT1AUTkVyytAzim44P/tvjwiuQZNyCBjUn8aDvxJ8WQqUClbHZ6/S9pkK8k+jspexXyRMeFWIvBoA==
 
 "@gulpjs/messages@^1.1.0":
   version "1.1.0"
