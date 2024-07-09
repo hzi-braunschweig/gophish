@@ -979,10 +979,10 @@
   resolved "https://registry.npmjs.org/@discoveryjs/json-ext/-/json-ext-0.5.7.tgz"
   integrity sha512-dBVuXR082gk3jsFp7Rd/JI4kytwGHecnCoTtXFb7DB6CNHp4rg5k1bhg0nWdLGLnOV71lmDzGQaLMy8iPLY0pw==
 
-"@eonasdan/tempus-dominus@^6.4.3":
-  version "6.7.16"
-  resolved "https://registry.npmjs.org/@eonasdan/tempus-dominus/-/tempus-dominus-6.7.16.tgz"
-  integrity sha512-9pVr34fpul5mHCMhljuBN+vlp8Djlor6RocdNp4IgVGDkhyv1hUewkY2/+K1b2gYzfAMVB57cohZUqgtpELGhw==
+"@eonasdan/tempus-dominus@^6.9.9":
+  version "6.9.9"
+  resolved "https://registry.yarnpkg.com/@eonasdan/tempus-dominus/-/tempus-dominus-6.9.9.tgz#83de1f7d995ae1557a62d01720894498c74bd8e6"
+  integrity sha512-l7fcg5IfudT1AUTkVyytAzim44P/tvjwiuQZNyCBjUn8aDvxJ8WQqUClbHZ6/S9pkK8k+jspexXyRMeFWIvBoA==
 
 "@gulpjs/messages@^1.1.0":
   version "1.1.0"
@@ -2110,10 +2110,10 @@ d3@3, d3@^3.5.6:
   resolved "https://registry.npmjs.org/d3/-/d3-3.5.17.tgz"
   integrity sha512-yFk/2idb8OHPKkbAL8QaOaqENNoMhIaSHZerk3oQsECwkObkCpJyjYwCe+OHiq6UEdhe1m8ZGARRRO3ljFjlKg==
 
-d3@^7.8.2:
-  version "7.8.5"
-  resolved "https://registry.npmjs.org/d3/-/d3-7.8.5.tgz"
-  integrity sha512-JgoahDG51ncUfJu6wX/1vWQEqOflgXyl4MaHqlcSruTez7yhaRKR9i8VjjcQGeS2en/jnFivXuaIMnseMMt0XA==
+d3@^7.9.0:
+  version "7.9.0"
+  resolved "https://registry.yarnpkg.com/d3/-/d3-7.9.0.tgz#579e7acb3d749caf8860bd1741ae8d371070cd5d"
+  integrity sha512-e1U46jVP+w7Iut8Jt8ri1YsPOvFpg46k+K8TpCb0P+zjCkjkPnV7WzfDJzMHy1LnA+wj5pLT1wjO901gLXeEhA==
   dependencies:
     d3-array "3"
     d3-axis "3"
@@ -3274,10 +3274,10 @@ minimist@^1.1.3:
   resolved "https://registry.npmjs.org/minimist/-/minimist-1.2.8.tgz"
   integrity sha512-2yyAR8qBkN3YuheJanUpWC5U3bb5osDywNB8RzDVlDwDHbocAJveqqj1u8+SVD7jkWT4yvsHCpWqqWqAxb0zCA==
 
-moment@^2.29.4:
-  version "2.29.4"
-  resolved "https://registry.npmjs.org/moment/-/moment-2.29.4.tgz"
-  integrity sha512-5LC9SOxjSc2HF6vO2CyuTDNivEdoz2IvyJJGj6X8DJ0eFyfszE0QiEd+iXmBvUP3WHxSjFH/vIsA0EN00cgr8w==
+moment@^2.30.1:
+  version "2.30.1"
+  resolved "https://registry.yarnpkg.com/moment/-/moment-2.30.1.tgz#f8c91c07b7a786e30c59926df530b4eac96974ae"
+  integrity sha512-uEmtNhbDOrWPFS+hdjFCBfy9f2YoyzRpwcl+DqpC6taX21FzsTLQVbMV/W7PzNSX6x/bhC1zA3c2UQ5NzH6how==
 
 ms@2.1.2:
   version "2.1.2"
