@@ -9,8 +9,8 @@ require (
 	github.com/alecthomas/template v0.0.0-20190718012654-fb15b899a751 // indirect
 	github.com/alecthomas/units v0.0.0-20190924025748-f65c72e2690d // indirect
 	github.com/emersion/go-imap v1.2.1
-	github.com/go-sql-driver/mysql v1.8.1
 	github.com/emersion/go-message v0.18.1
+	github.com/go-sql-driver/mysql v1.8.1
 	github.com/gophish/gomail v0.0.0-20200818021916-1f6d0dfd512e
 	github.com/gorilla/context v1.1.2
 	github.com/gorilla/csrf v1.7.2
@@ -26,7 +26,7 @@ require (
 	github.com/oschwald/maxminddb-golang v1.13.1
 	github.com/sirupsen/logrus v1.9.3
 	github.com/ziutek/mymysql v1.5.4 // indirect
-	golang.org/x/crypto v0.24.0
+	golang.org/x/crypto v0.25.0
 	golang.org/x/time v0.5.0
 	gopkg.in/alecthomas/kingpin.v2 v2.2.6
 	gopkg.in/check.v1 v0.0.0-20161208181325-20d25e280405
