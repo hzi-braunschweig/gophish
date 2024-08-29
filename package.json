@@ -27,7 +27,7 @@
     "gulp-wrap": "^0.15.0",
     "jshint": "^2.13.4",
     "jshint-stylish": "^2.2.1",
-    "webpack": "^5.92.1",
+    "webpack": "^5.94.0",
     "webpack-cli": "^5.0.1"
   },
   "dependencies": {
