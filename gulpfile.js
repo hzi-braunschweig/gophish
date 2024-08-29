@@ -17,21 +17,21 @@ var gulp = require('gulp'),
     dest_js_directory = 'static/js/dist/',
     dest_css_directory = 'static/css/dist/';
 
-vendorjs = function () {
-    const pkg = require('./package.json');
-    const libs = Object.keys(pkg.dependencies);
-    return gulp.src(
-        libs.map(function(lib) {
-            return './node_modules/' + lib + '/**/*.js';
-        })
-    )
-        .pipe(concat('vendor.js'))
-        .pipe(rename({
-            suffix: '.min'
-        }))
-        .pipe(uglify())
-        .pipe(gulp.dest(dest_js_directory));
-}
+// vendorjs = function () {
+//     const pkg = require('./package.json');
+//     const libs = Object.keys(pkg.dependencies);
+//     return gulp.src(
+//         libs.map(function(lib) {
+//             return './node_modules/' + lib + '/**/*.js';
+//         })
+//     )
+//         .pipe(concat('vendor.js'))
+//         .pipe(rename({
+//             suffix: '.min'
+//         }))
+//         .pipe(uglify())
+//         .pipe(gulp.dest(dest_js_directory));
+// }
 
 scripts = function () {
     // Gophish app files - non-ES6
@@ -81,8 +81,8 @@ styles = function () {
         .pipe(gulp.dest(dest_css_directory));
 }
 
-exports.vendorjs = vendorjs
+// exports.vendorjs = vendorjs
 exports.scripts = scripts
 exports.styles = styles
-exports.build = gulp.parallel(vendorjs, scripts, styles)
+exports.build = gulp.parallel(scripts, styles)
 exports.default = exports.build
