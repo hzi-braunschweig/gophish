@@ -43,7 +43,7 @@
     "datatables.net": "^2.0.8",
     "datetime-moment": "^1.0.0",
     "highcharts": "^11.2.0",
-    "jquery-ui": "^1.13.2",
+    "jquery-ui": "^1.14.0",
     "jquery.iframe-transport": "^1.0.0",
     "moment": "^2.30.1",
     "papaparse": "^5.4.0",
