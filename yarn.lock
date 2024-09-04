@@ -3928,10 +3928,10 @@ sver@^1.8.3:
   optionalDependencies:
     semver "^6.3.0"
 
-sweetalert2@^11.12.1:
-  version "11.12.1"
-  resolved "https://registry.npmjs.org/sweetalert2/-/sweetalert2-11.12.1.tgz"
-  integrity sha512-xV3/YI7Ah6BeP+bXKcrHy1yn6duh8eqlX2TSI9I/rTIzGLYQvnnTa3mOIo5RHUobAjSmacC2IhPApxjvppZaEQ==
+sweetalert2@^11.13.1:
+  version "11.13.1"
+  resolved "https://registry.yarnpkg.com/sweetalert2/-/sweetalert2-11.13.1.tgz#d8cd329171fd98b9647b4b525ac8fd703b0a7805"
+  integrity sha512-YO6StPWC+6WmXJbPDHIiOhi5ZNU9Lb2XnWo3odKGwbFOtfCOBqzExNcLK85HS2GzIMjpl8Wl6CLiMQdhRXHN0g==
 
 tapable@^2.1.1, tapable@^2.2.0:
   version "2.2.1"
