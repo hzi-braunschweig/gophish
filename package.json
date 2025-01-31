@@ -42,7 +42,7 @@
     "datamaps": "^0.5.9",
     "datatables.net": "^2.0.8",
     "datetime-moment": "^1.0.0",
-    "highcharts": "^11.2.0",
+    "highcharts": "^12.1.2",
     "jquery-ui": "^1.13.2",
     "jquery.iframe-transport": "^1.0.0",
     "moment": "^2.30.1",
