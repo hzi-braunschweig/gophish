@@ -12,7 +12,7 @@
   },
   "homepage": "https://getgophish.com",
   "devDependencies": {
-    "@babel/core": "^7.24.7",
+    "@babel/core": "^7.26.9",
     "@babel/preset-env": "^7.24.7",
     "babel-loader": "^9.1.2",
     "clean-css": "^5.3.3",
