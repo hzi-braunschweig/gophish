@@ -9,7 +9,7 @@ require (
 	github.com/NYTimes/gziphandler v1.1.1
 	github.com/PuerkitoBio/goquery v1.9.2
 	github.com/emersion/go-imap v1.2.1
-	github.com/emersion/go-message v0.18.1
+	github.com/emersion/go-message v0.18.2
 	github.com/go-sql-driver/mysql v1.8.1
 	github.com/gophish/gomail v0.0.0-20200818021916-1f6d0dfd512e
 	github.com/gorilla/context v1.1.2
